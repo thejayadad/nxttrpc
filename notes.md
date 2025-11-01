@@ -40,3 +40,15 @@ const posts = await prisma.post.findMany()
 
 - or use.map to get the items
 
+### TRPC ####
+- from the docs
+- client usage
+- tanstack react query
+- server components
+
+https://trpc.io/docs/client/tanstack-react-query/server-components
+
+- follow the docs
+- be sure to wrap the app
+- once you have the backend setup, go to _app,ts
+- 

@@ -15,6 +15,9 @@
     "next": "$next"
   },
   "dependencies": {
+    "@prisma/client": "^6.18.0",
+    "@vercel/blob": "^2.0.0",
+    "dotenv": "^17.2.3",
     "next": "16.0.1",
     "react": "19.2.0",
     "react-dom": "19.2.0"
@@ -27,6 +30,7 @@
     "daisyui": "^5.3.10",
     "eslint": "^9",
     "eslint-config-next": "16.0.1",
+    "prisma": "^6.18.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
